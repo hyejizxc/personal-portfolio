@@ -18,7 +18,7 @@ const Footer = () => {
             <SiTiktok size={24} /> TikTok
           </a>
         </div>
-        <p>&copy; {new Date().getFullYear()} Your Portfolio Name. All rights reserved.</p>
+        <p>&copy; {new Date().getFullYear()} Jim Personal Portfolio. All rights reserved.</p>
       </div>
     </footer>
   );
